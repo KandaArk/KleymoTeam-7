@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|c:\\users\\qtapok\\desktop\\\u043A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\uibuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\uibuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|c:\\users\\qtapok\\desktop\\\u043A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\clickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\clickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\ipickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\ipickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\selectedcursorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\selectedcursorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\itemdescriptionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\itemdescriptionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\checkableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\checkableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\icheckable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\icheckable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\assets\\scr\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE07624-25DA-B2C8-5784-36AF43075278}|Assembly-CSharp.csproj|solutionrelative:assets\\scr\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIButtons.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\UIButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\UIButtons.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\UIButtons.cs",
+              "RelativeToolTip": "Assets\\SCR\\UIButtons.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T16:04:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickHandler.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\ClickHandler.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ClickHandler.cs",
+              "RelativeToolTip": "Assets\\SCR\\ClickHandler.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:43:20.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickableItem.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\PickableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\PickableItem.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\PickableItem.cs",
+              "RelativeToolTip": "Assets\\SCR\\PickableItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:40:47.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\IUsable.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\IUsable.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\IUsable.cs",
+              "RelativeToolTip": "Assets\\SCR\\IUsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:39:57.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPickable.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\IPickable.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\IPickable.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\IPickable.cs",
+              "RelativeToolTip": "Assets\\SCR\\IPickable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:39:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectedCursorUI.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\SelectedCursorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\SelectedCursorUI.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\SelectedCursorUI.cs",
+              "RelativeToolTip": "Assets\\SCR\\SelectedCursorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:37:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\SCR\\InventoryUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:34:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\SCR\\InventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:28:39.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\Inventory.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\Inventory.cs",
+              "RelativeToolTip": "Assets\\SCR\\Inventory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:24:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckableItem.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\CheckableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\CheckableItem.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\CheckableItem.cs",
+              "RelativeToolTip": "Assets\\SCR\\CheckableItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:20:24.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICheckable.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ICheckable.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\ICheckable.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ICheckable.cs",
+              "RelativeToolTip": "Assets\\SCR\\ICheckable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:19:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemDescriptionUI.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ItemDescriptionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\ItemDescriptionUI.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ItemDescriptionUI.cs",
+              "RelativeToolTip": "Assets\\SCR\\ItemDescriptionUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T04:13:33.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\SCR\\ItemData.cs",
+              "ToolTip": "C:\\Users\\QTapok\\Desktop\\\u041A\u043B\u0435\u0439\u043C\u043E\\Assets\\SCR\\ItemData.cs",
+              "RelativeToolTip": "Assets\\SCR\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T09:11:31.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
