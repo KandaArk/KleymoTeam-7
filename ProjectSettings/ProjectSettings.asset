@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 0377ce830b93e134fa7aced744686e2c
+  productGUID: 69315bec15cb0fd458f784500fc9bf64
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -589,7 +589,8 @@ PlayerSettings:
   webWasm2023: 0
   webEnableSubmoduleStrippingCompatibility: 0
   webProgressiveAssetLoading: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: SENTIS_ANALYTICS_ENABLED;APP_UI_EDITOR_ONLY
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -687,14 +688,14 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 500aab42-f75d-4e5b-a662-116817542c88
+  cloudProjectId: 298417fc-4074-4e7d-a15b-2e4e72e53acc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: "\u041A\u043B\u0435\u0439\u043C\u043E"
-  organizationId: unity_47141c0c8b73c0aef4c5
+  projectName: "\u041A\u043B\u0435\u0439\u043C\u043E 2026-09-30_15-28-43"
+  organizationId: kandakris
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
